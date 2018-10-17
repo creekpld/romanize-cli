@@ -4,8 +4,6 @@ a command line tool to romanies hangul
 
 Using [Revised Romanization of Korean](https://en.wikipedia.org/wiki/Revised_Romanization_of_Korean).
 
-Still a 🚧 Work in progress. ;)
-
 ## Features
 
 - [x] configure a custom Syllable divider
@@ -53,7 +51,6 @@ annyeong haseyo
 an-nyeong ha-se-yo
 ```
 
-
 ## License
 
-Kroman is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+Romanize CLI is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
