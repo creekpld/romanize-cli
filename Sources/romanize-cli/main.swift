@@ -31,7 +31,7 @@ var romaniesdInput: String? = nil
   // Version
   if let hasVersion = flags.getBool(name: "version"), hasVersion == true 
   {
-    print("Version is 1.0.0")
+    print("Version is 1.0.1")
     return
   }
 
