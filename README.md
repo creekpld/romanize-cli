@@ -1,3 +1,7 @@
+# This is not the Repo you are looking for! :alien:
+
+New development is taking place in [gitlab.com/pdylong/romanize-cli](https://gitlab.com/pdylong/romanize-cli) :ok_hand:.
+
 # Romanize CLI
 
 a command line tool to romanies hangul
